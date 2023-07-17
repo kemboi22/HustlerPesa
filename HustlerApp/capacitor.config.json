@@ -1,0 +1,8 @@
+{
+  "appId": "com.hustlerpesa.app",
+  "appName": "HystlerApp",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
